@@ -60,9 +60,7 @@ Currently freelancing. Based in New Delhi. Working with clients globally.
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheAlgo7&theme=github_dark" />
-&nbsp;&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=TheAlgo7&hide_border=true&background=0d1117&stroke=0d1117&ring=c9183c&fire=a01330&currStreakLabel=c9183c&sideLabels=6e7681&dates=484f58&sideNums=e6edf3&currStreakNum=ffffff" />
+<img src="https://streak-stats.demolab.com?user=TheAlgo7&hide_border=true&background=0d1117&stroke=0d1117&ring=c9183c&fire=a01330&currStreakLabel=c9183c&sideLabels=6e7681&dates=484f58&sideNums=e6edf3&currStreakNum=ffffff" />
 
 </div>
 
