@@ -1,161 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a192f,100:0d0d14&height=140&section=header&text=GAURAV%20KUMAR&fontSize=42&fontColor=58A6FF&fontAlignY=60&desc=Full-Stack%20Developer%20%E2%80%94%20thealgothrim.com&descSize=14&descAlignY=82&descColor=8b949e" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+cinematic+web+experiences.;React+%7C+Django+%7C+UI+Architecture+%7C+Product+Systems;Freelancer+%E2%80%94+Delhi%2C+India.;Available+for+interesting+problems." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0d0005,100:1a000a&height=160&section=header&text=The%20Algothrim&fontSize=46&fontColor=c9183c&fontAlignY=58&fontAlign=50&desc=Logic%20meets%20artistry.&descSize=15&descColor=808080&descAlignY=78" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/thealgothrim.com-000000?style=for-the-badge&logo=safari&logoColor=58A6FF)](https://thealgothrim.com)
-[![Twitter](https://img.shields.io/badge/@algothrim-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/algothrim)
-[![GitHub](https://img.shields.io/badge/TheAlgo7-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheAlgo7)
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=14&pause=1400&color=c9183c&center=true&vCenter=true&width=580&lines=Senior+Digital+Artist+%26+Full-Stack+Developer.;9%2B+years+in+design+%26+engineering.;Logo+Design+%E2%80%94+Web+Dev+%E2%80%94+Brand+Identity.;New+Delhi%2C+India.+Available+worldwide." alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/thealgothrim.com-000000?style=flat-square&logo=safari&logoColor=c9183c&labelColor=0d0005)](https://thealgothrim.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=c9183c&labelColor=0d0005)](https://www.linkedin.com/in/algothrim07/)&nbsp;
+[![Behance](https://img.shields.io/badge/Behance-000000?style=flat-square&logo=behance&logoColor=c9183c&labelColor=0d0005)](https://www.behance.net/gauravkumar77/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=c9183c&labelColor=0d0005)](https://www.instagram.com/thealgothrim/)&nbsp;
+[![X](https://img.shields.io/badge/@algothrim-000000?style=flat-square&logo=x&logoColor=c9183c&labelColor=0d0005)](https://x.com/algothrim)
 
 </div>
 
 ---
 
-```
- ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄ 
-▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
- ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░▌       ▐░▌ ▀▀▀▀█░█▀▀▀▀ 
-     ▐░▌     ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌     ▐░▌     
-     ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     
-     ▐░▌     ▐░░░░░░░░░░▌ ▐░▌▐░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     
-     ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌ ▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌     ▐░▌     
-     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
- ▄▄▄▄█░█▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌ ▄▄▄▄█░█▄▄▄▄ 
-▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
- ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀ 
-// Full-Stack Developer  |  Delhi, India  |  Open to Work
-```
+<br/>
+
+**I design and build things** — logos, brands, web apps, and interfaces that hold up under scrutiny. Nine years of doing both sides: the visual and the technical. I don't believe those two things should live separately.
+
+Currently freelancing. Based in New Delhi. Working with clients globally.
+
+<br/>
 
 ---
 
-## `> whoami`
+<br/>
 
-Full-Stack Developer crafting scalable systems and **cinematic web experiences** — the kind that feel alive when you use them. I care deeply about product thinking, UI architecture, and the gap between *functional* and *memorable*.
+### Development Stack
 
-I build with intention. Every interface is a conversation between the system and the human on the other side of it.
-
----
-
-## `> tech.stack`
+<div align="left">
 
 **Frontend**
 
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Backend & Data**
 
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
+[![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com)
+[![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org)
+[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)
 
-**Tools & Workflow**
+**Design & Tools**
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/TheAlgo7)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
+[![PS](https://skillicons.dev/icons?i=ps&theme=dark)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](https://skillicons.dev/icons?i=ai&theme=dark)](https://www.adobe.com/products/illustrator.html)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
+[![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com)
+
+</div>
+
+<br/>
 
 ---
 
-## `> git log --stat`
+<br/>
+
+### GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAlgo7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=3FB950&text_color=8b949e&rank_icon=github&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlgo7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TheAlgo7&show_icons=true&hide_border=true&bg_color=000000&title_color=c9183c&icon_color=c9183c&text_color=808080&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlgo7&layout=compact&hide_border=true&bg_color=000000&title_color=c9183c&text_color=808080&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TheAlgo7&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3" />
+<img src="https://streak-stats.demolab.com?user=TheAlgo7&hide_border=true&background=000000&stroke=1a000a&ring=c9183c&fire=a01330&currStreakLabel=c9183c&sideLabels=808080&dates=555555&sideNums=e0e0e0&currStreakNum=ffffff" />
 
 </div>
 
+<br/>
+
 ---
 
-## `> ls ./projects`
+<br/>
+
+### Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [betrayal](https://github.com/TheAlgo7/betrayal)
+**[betrayal](https://github.com/TheAlgo7/betrayal)**
 > Instagram unfollower tracker — Keep your circle real.
 
-Built because honesty matters. Tracks who quietly unfollowed you on Instagram. Clean, brutal, honest.
+Tracks who quietly unfollowed you. Honest, direct, no fluff. Built with Next.js.
 
-`Next.js` `JavaScript` `Instagram API`
+`Next.js` · `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### [jarvis-web](https://github.com/TheAlgo7/jarvis-web)
-> J.A.R.V.I.S. — Just A Rather Very Intelligent System.
+**[kawaii-habit-tracker](https://github.com/TheAlgo7/kawaii-habit-tracker)**
+> Habit tracking with an AI companion — Neko-chan.
 
-A web-based AI voice assistant with full Iron Man HUD aesthetic. College project, revived. The kind of thing you build because you *had* to.
+Discipline wrapped in personality. Full kawaii aesthetic, real AI under the hood.
 
-`JavaScript` `Web Speech API` `AI`
+`React` · `Vite` · `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [kawaii-habit-tracker](https://github.com/TheAlgo7/kawaii-habit-tracker)
-> A hyper-kawaii habit tracker with AI companion Neko-chan.
+**[vandana-worship-app](https://github.com/TheAlgo7/vandana-worship-app)**
+> Bilingual worship lyrics PWA — Hindi & Hinglish.
 
-Discipline wrapped in joy. Habit tracking with personality — React + Vite, anime aesthetic, actual AI. Two stars and growing. ✿
+Built for real users in their language. Works offline. Dark-first. Used weekly.
 
-`React` `Vite` `JavaScript` `AI`
+`TypeScript` · `Next.js` · `PWA`
 
 </td>
 <td width="50%" valign="top">
 
-### [vandana-worship-app](https://github.com/TheAlgo7/vandana-worship-app)
-> Bilingual worship lyrics PWA — Hindi & Hinglish.
+**[thealgothrim.com](https://thealgothrim.com)**
+> Portfolio — design and development.
 
-Built for real users, in their language. Next.js 16, React 19, Tailwind v4. Dark-first. Works offline. Matters to someone every week.
+Nine years of work, in one place. The thing that started everything.
 
-`TypeScript` `Next.js` `PWA` `Tailwind`
+`HTML` · `CSS` · `Vanilla JS`
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## `> ping me`
+<br/>
 
 <div align="center">
 
-I'm available for freelance work, interesting collabs, and projects that deserve to exist.
+**Open to freelance work and interesting collabs.**
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gaurav@thealgothrim.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=58A6FF)](https://thealgothrim.com)
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/algothrim)
-
-*Delhi, India — Available for remote work globally.*
+[![Email](https://img.shields.io/badge/gauravtiger60@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=c9183c&labelColor=0d0005)](mailto:gauravtiger60@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:0a192f,100:0d0d14&height=100&section=footer" width="100%"/>
-
-<sub>Built with intention. Not a template. — <a href="https://thealgothrim.com">thealgothrim.com</a></sub>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a000a,60:0d0005,100:000000&height=100&section=footer" width="100%" />
 </div>
