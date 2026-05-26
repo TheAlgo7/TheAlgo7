@@ -84,6 +84,29 @@ Currently freelancing. Based in New Delhi. Working with clients globally.
 <tr>
 <td width="50%" valign="top">
 
+**[wearwise-wardrobe](https://wearwise-by-algothrim.vercel.app)**
+
+Full-stack AI wardrobe engine. Photograph your clothes once, get outfit builds grounded in weather, occasion, and your style profile.
+
+![Next.js](https://img.shields.io/badge/Next.js-c9183c?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-c9183c?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-c9183c?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[wearwise-go](https://wearwise-go-by-algothrim.vercel.app)**
+
+Travel packing companion. Built for airport check-ins and midnight departures — trip lists, category tracking, Supabase sync.
+
+![Next.js](https://img.shields.io/badge/Next.js-c9183c?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-c9183c?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[betrayal](https://github.com/TheAlgo7/betrayal)**
 
 Instagram unfollower tracker. Tracks who quietly unfollowed you — no noise, just the truth. Built with Next.js.
