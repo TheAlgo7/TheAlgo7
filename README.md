@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0008,100:0d1117&height=180&section=header&text=Gaurav%20Kumar&fontSize=52&fontColor=c9183c&fontAlignY=55&fontAlign=50&desc=The%20Algothrim%20%E2%80%94%20Logic%20meets%20artistry.&descSize=14&descColor=6e7681&descAlignY=74" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0008,100:0d1117&height=180&section=header&text=Gaurav%20Kumar&fontSize=52&fontColor=c9183c&fontAlignY=55&fontAlign=50&desc=The%20Algothrim%20%C2%B7%20Logic%20meets%20artistry.&descSize=14&descColor=6e7681&descAlignY=74" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=13&pause=1600&color=c9183c&center=true&vCenter=true&width=620&lines=Senior+Digital+Artist+%26+Full-Stack+Developer.;9%2B+years+across+design+and+engineering.;Logo+Design+%E2%80%94+Web+Dev+%E2%80%94+Brand+Identity.;New+Delhi%2C+India.+Available+worldwide." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=13&pause=1600&color=c9183c&center=true&vCenter=true&width=620&lines=Senior+Digital+Artist+%26+Full-Stack+Developer.;10%2B+years+across+design+and+engineering.;Logo+Design+%C2%B7+Web+Dev+%C2%B7+Brand+Identity.;New+Delhi%2C+India.+Available+worldwide." alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-I design and build things — **logos, brands, web apps, and interfaces** that hold up under scrutiny. Nine years of doing both sides: the visual and the technical. I don't believe those two things should live separately.
+I design and build things: **logos, brands, web apps, and interfaces** that hold up under scrutiny. A decade of doing both sides, the visual and the technical. I don't believe those two things should live separately.
 
 Currently freelancing. Based in New Delhi. Working with clients globally.
 
@@ -97,7 +97,7 @@ Full-stack AI wardrobe engine. Photograph your clothes once, get outfit builds g
 
 **[wearwise-go](https://wearwise-go-by-algothrim.vercel.app)**
 
-Travel packing companion. Built for airport check-ins and midnight departures — trip lists, category tracking, Supabase sync.
+Travel packing companion. Built for airport check-ins and midnight departures. Trip lists, category tracking, Supabase sync.
 
 ![Next.js](https://img.shields.io/badge/Next.js-c9183c?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-c9183c?style=flat-square&logo=supabase&logoColor=white)
@@ -109,7 +109,7 @@ Travel packing companion. Built for airport check-ins and midnight departures �
 
 **[betrayal](https://github.com/TheAlgo7/betrayal)**
 
-Instagram unfollower tracker. Tracks who quietly unfollowed you — no noise, just the truth. Built with Next.js.
+Instagram unfollower tracker. Tracks who quietly unfollowed you, no noise, just the truth. Built with Next.js.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-c9183c?style=flat-square&logo=javascript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-c9183c?style=flat-square&logo=next.js&logoColor=white)
@@ -119,7 +119,7 @@ Instagram unfollower tracker. Tracks who quietly unfollowed you — no noise, ju
 
 **[kawaii-habit-tracker](https://github.com/TheAlgo7/kawaii-habit-tracker)**
 
-Habit tracking with an AI companion — Neko-chan. Discipline wrapped in personality.
+Habit tracking with an AI companion, Neko-chan. Discipline wrapped in personality.
 
 ![React](https://img.shields.io/badge/React-c9183c?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-c9183c?style=flat-square&logo=vite&logoColor=white)
@@ -142,7 +142,7 @@ Bilingual worship lyrics PWA in Hindi & Hinglish. Dark-first, works offline, use
 
 **[thealgothrim.com](https://thealgothrim.com)**
 
-Personal portfolio — nine years of design and development in one place.
+Personal portfolio. A decade of design and development in one place.
 
 ![HTML](https://img.shields.io/badge/HTML-c9183c?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-c9183c?style=flat-square&logo=css3&logoColor=white)
