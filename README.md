@@ -173,13 +173,6 @@ Also: **[thealgothrim.com](https://thealgothrim.com)**, a portfolio where every 
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAlgo7&bg_color=0d1117&color=6e7681&line=c9183c&point=c9183c&hide_border=true&area=true&area_color=c9183c&radius=6" width="100%" />
-
-</div>
 
 <br/>
 
