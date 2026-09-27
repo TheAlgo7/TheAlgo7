@@ -137,7 +137,7 @@ A sneaker showcase where every pair repaints the page in its own colours.
 </tr>
 </table>
 
-Also: **[thealgothrim.com](https://thealgothrim.com)**, a portfolio where every claim names its source, and **[Settld](https://settld-ruddy.vercel.app)**, shared expenses with the receipt and the proof kept together.
+Also: **[thealgothrim.com](https://thealgothrim.com)**, a portfolio where every claim names its source, and **[Settld](https://github.com/TheAlgo7/settld)** · [open](https://settld-ruddy.vercel.app), shared expenses with the receipt and the proof kept together.
 
 <br/>
 
