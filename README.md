@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=13&pause=1600&color=c9183c&center=true&vCenter=true&width=620&lines=Founder+%26+Creative+Director.;Digital+artist+and+full-stack+developer.;The+Outfit+House+%C2%B7+Ruach's+Farms.;New+Delhi%2C+India." alt="Founder and Creative Director. Digital artist and full-stack developer." />
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=13&pause=1600&color=c9183c&center=true&vCenter=true&width=620&lines=Founder+%26+Creative+Director.;Digital+artist+and+full-stack+developer.;The+Outfit+House+%C2%B7+Ruach%27s+Farms.;New+Delhi%2C+India." alt="Founder and Creative Director. Digital artist and full-stack developer." />
 
 </div>
 
