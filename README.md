@@ -66,6 +66,24 @@ A family agricultural holding in Alwar, Rajasthan, in development: poultry first
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/TheAlgo7/overworld-maps"><img src="https://raw.githubusercontent.com/TheAlgo7/overworld-maps/HEAD/docs/readme/hero.png" width="100%" alt="Overworld Maps" /></a>
+
+**[Overworld Maps](https://github.com/TheAlgo7/overworld-maps)**<br/>
+Turn-by-turn navigation on real roads, drawn like the maps in GTA V and Red Dead Redemption 2. Built for Android Auto, with live traffic and road alerts.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TheAlgo7/DwellPlay"><img src="https://raw.githubusercontent.com/TheAlgo7/DwellPlay/HEAD/docs/readme/hero.png" width="100%" alt="DwellPlay" /></a>
+
+**[DwellPlay](https://github.com/TheAlgo7/DwellPlay)**<br/>
+Your videos on the car's big screen while you're parked: phone videos, YouTube and Jellyfin, with safety rules that keep the picture parked-only.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/TheAlgo7/dueline"><img src="https://raw.githubusercontent.com/TheAlgo7/dueline/HEAD/docs/readme/hero.png" width="100%" alt="Dueline" /></a>
 
 **[Dueline](https://github.com/TheAlgo7/dueline)** · [open](https://dueline-app.web.app)<br/>
@@ -74,14 +92,22 @@ Everything you need to pay, on one line. Bills, cards, subscriptions and UPI pay
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/TheAlgo7/settld"><img src="https://raw.githubusercontent.com/TheAlgo7/settld/HEAD/docs/readme/hero.png" width="100%" alt="Settld" /></a>
+
+**[Settld](https://github.com/TheAlgo7/settld)** · [open](https://settld-ruddy.vercel.app)<br/>
+Split, prove, settle. Shared expenses with the receipt and the payment proof kept together, offline-first and free.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/TheAlgo7/wearwise-by-algothrim"><img src="https://raw.githubusercontent.com/TheAlgo7/wearwise-by-algothrim/HEAD/docs/readme/hero.png" width="100%" alt="WearWise" /></a>
 
 **[WearWise](https://github.com/TheAlgo7/wearwise-by-algothrim)**<br/>
 An AI stylist that only picks from the clothes you own, for today's weather and today's plans.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TheAlgo7/wearwise-go-by-algothrim"><img src="https://raw.githubusercontent.com/TheAlgo7/wearwise-go-by-algothrim/HEAD/docs/readme/hero.png" width="100%" alt="WearWise Go" /></a>
@@ -90,16 +116,16 @@ An AI stylist that only picks from the clothes you own, for today's weather and 
 A packing list built from the weather, the route and the same wardrobe.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TheAlgo7/vandana-worship-app"><img src="https://raw.githubusercontent.com/TheAlgo7/vandana-worship-app/HEAD/docs/readme/hero.png" width="100%" alt="Vandana" /></a>
 
 **[Vandana](https://github.com/TheAlgo7/vandana-worship-app)** · [open](https://vandanaapp.vercel.app)<br/>
-Hindi and Hinglish worship lyrics, one tap apart. 3,000+ songs, setlists and a present mode.
+Hindi and Hinglish worship lyrics, one tap apart. 2,800+ songs, setlists and a present mode.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TheAlgo7/kawaii-habit-tracker"><img src="https://raw.githubusercontent.com/TheAlgo7/kawaii-habit-tracker/HEAD/docs/readme/hero.png" width="100%" alt="Kawaii Habit Tracker" /></a>
@@ -108,6 +134,8 @@ Hindi and Hinglish worship lyrics, one tap apart. 3,000+ songs, setlists and a p
 Habits where tiny versions count and rest days are planned. A garden grows; Neko keeps you company.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TheAlgo7/betrayal"><img src="https://raw.githubusercontent.com/TheAlgo7/betrayal/HEAD/docs/readme/hero.png" width="100%" alt="Betrayal" /></a>
@@ -116,8 +144,6 @@ Habits where tiny versions count and rest days are planned. A garden grows; Neko
 Who doesn't follow you back on Instagram, from your own export. Nothing leaves the browser.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TheAlgo7/jarvis-web"><img src="https://raw.githubusercontent.com/TheAlgo7/jarvis-web/HEAD/docs/readme/hero.png" width="100%" alt="J.A.R.V.I.S." /></a>
@@ -126,18 +152,12 @@ Who doesn't follow you back on Instagram, from your own export. Nothing leaves t
 A voice and text browser assistant in a cyan HUD, with a real AI behind it.
 
 </td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TheAlgo7/algo-vault-shoe-store"><img src="https://raw.githubusercontent.com/TheAlgo7/algo-vault-shoe-store/HEAD/docs/readme/hero.png" width="100%" alt="Algo Vault" /></a>
-
-**[Algo Vault](https://github.com/TheAlgo7/algo-vault-shoe-store)** · [open](https://algo-vault-shoe-store.vercel.app)<br/>
-A sneaker showcase where every pair repaints the page in its own colours.
-
-</td>
 </tr>
 </table>
 
-Also: **[thealgothrim.com](https://thealgothrim.com)**, a portfolio where every claim names its source, and **[Settld](https://github.com/TheAlgo7/settld)** · [open](https://settld-ruddy.vercel.app), shared expenses with the receipt and the proof kept together.
+Also: **[Algo Vault](https://github.com/TheAlgo7/algo-vault-shoe-store)** · [open](https://algo-vault-shoe-store.vercel.app), a sneaker showcase where every pair repaints the page in its own colours, and **[thealgothrim.com](https://thealgothrim.com)**, a portfolio where every claim names its source.
+
+**Client work:** **[Spectrum Tour & Travel](https://www.spectrumtourandtravels.in)**, an Ahmedabad fleet company: its website, and the operations app its drivers log every duty in.
 
 <br/>
 
@@ -150,6 +170,10 @@ Also: **[thealgothrim.com](https://thealgothrim.com)**, a portfolio where every 
 **Frontend**
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark)](https://github.com/TheAlgo7)
+
+**Android and the car**
+
+[![Android](https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark)](https://github.com/TheAlgo7)
 
 **Backend and data**
 
