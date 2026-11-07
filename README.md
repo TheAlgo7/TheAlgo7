@@ -117,7 +117,7 @@ A packing list built from the weather, the route and the same wardrobe.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/vandana-worship-app"><img src="https://raw.githubusercontent.com/TheAlgo7/vandana-worship-app/HEAD/docs/readme/hero.png" width="100%" alt="Vandana" /></a>
+<a href="https://github.com/TheAlgo7/vandana-worship-app"><img src="https://raw.githubusercontent.com/TheAlgo7/vandana-worship-app/HEAD/docs/readme/hero.webp" width="100%" alt="Vandana" /></a>
 
 **[Vandana](https://github.com/TheAlgo7/vandana-worship-app)** · [open](https://vandanaapp.vercel.app)<br/>
 Hindi and Hinglish worship lyrics, one tap apart. 2,800+ songs, setlists and a present mode.
