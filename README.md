@@ -71,7 +71,7 @@ Turn-by-turn navigation on real roads, drawn like the maps in GTA V, Red Dead Re
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/DwellPlay"><img src="https://raw.githubusercontent.com/TheAlgo7/DwellPlay/HEAD/docs/readme/hero.png" width="100%" alt="DwellPlay" /></a>
+<a href="https://github.com/TheAlgo7/DwellPlay"><img src="https://raw.githubusercontent.com/TheAlgo7/DwellPlay/HEAD/docs/readme/hero.webp" width="100%" alt="DwellPlay" /></a>
 
 **[DwellPlay](https://github.com/TheAlgo7/DwellPlay)**<br/>
 Your videos on the car's big screen while you're parked: phone videos, YouTube and Jellyfin, with safety rules that keep the picture parked-only.
