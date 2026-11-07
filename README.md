@@ -143,7 +143,7 @@ Who doesn't follow you back on Instagram, from your own export. Nothing leaves t
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/jarvis-web"><img src="https://raw.githubusercontent.com/TheAlgo7/jarvis-web/HEAD/docs/readme/hero.png" width="100%" alt="J.A.R.V.I.S." /></a>
+<a href="https://github.com/TheAlgo7/jarvis-web"><img src="https://raw.githubusercontent.com/TheAlgo7/jarvis-web/HEAD/docs/readme/hero.webp" width="100%" alt="J.A.R.V.I.S." /></a>
 
 **[J.A.R.V.I.S.](https://github.com/TheAlgo7/jarvis-web)** · [open](https://jarvis-web-alpha.vercel.app)<br/>
 A voice and text browser assistant in a cyan HUD, with a real AI behind it.
