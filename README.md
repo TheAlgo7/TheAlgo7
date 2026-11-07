@@ -135,7 +135,7 @@ Habits where tiny versions count and rest days are planned. A garden grows; Neko
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/betrayal"><img src="https://raw.githubusercontent.com/TheAlgo7/betrayal/HEAD/docs/readme/hero.png" width="100%" alt="Betrayal" /></a>
+<a href="https://github.com/TheAlgo7/betrayal"><img src="https://raw.githubusercontent.com/TheAlgo7/betrayal/HEAD/docs/readme/hero.webp" width="100%" alt="Betrayal" /></a>
 
 **[Betrayal](https://github.com/TheAlgo7/betrayal)** · [open](https://betrayal-seven.vercel.app)<br/>
 Who doesn't follow you back on Instagram, from your own export. Nothing leaves the browser.
