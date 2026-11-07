@@ -99,7 +99,7 @@ Split, prove, settle. Shared expenses with the receipt and the payment proof kep
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/wearwise-by-algothrim"><img src="https://raw.githubusercontent.com/TheAlgo7/wearwise-by-algothrim/HEAD/docs/readme/hero.png" width="100%" alt="WearWise" /></a>
+<a href="https://github.com/TheAlgo7/wearwise-by-algothrim"><img src="https://raw.githubusercontent.com/TheAlgo7/wearwise-by-algothrim/HEAD/docs/readme/hero.webp" width="100%" alt="WearWise" /></a>
 
 **[WearWise](https://github.com/TheAlgo7/wearwise-by-algothrim)**<br/>
 An AI stylist that only picks from the clothes you own, for today's weather and today's plans.
