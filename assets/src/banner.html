@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- The profile banner: the front of The Algothrim business card (the approved v4 key-art poster),
+     redrawn at banner sizes. banner.html?size=wide is 1600x480, ?size=square is 1080x1080.
+     Render with: python assets/src/render.py -->
+<style>
+  @font-face { font-family: "Unbounded"; src: url("fonts/unbounded-variable.woff2") format("woff2"); font-weight: 400 900; }
+  @font-face { font-family: "Montserrat"; src: url("fonts/montserrat-variable.woff2") format("woff2"); font-weight: 100 900; }
+  :root { --bg: #050304; --crimson: #c9183c; --bone: #efe8df; }
+  html, body { margin: 0; background: var(--bg); }
+  .banner { position: relative; overflow: hidden; isolation: isolate; background: var(--bg); }
+
+  /* heavy cinematic grain, as on the card */
+  .banner::before { content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .5; mix-blend-mode: screen; z-index: 6;
+    background-image:
+      radial-gradient(circle at 13% 27%, rgba(239,232,223,.12) 0 1.3px, transparent 2px),
+      radial-gradient(circle at 67% 55%, rgba(201,24,60,.10) 0 1.2px, transparent 2px),
+      radial-gradient(circle at 82% 15%, rgba(239,232,223,.08) 0 1.1px, transparent 1.8px),
+      radial-gradient(circle at 35% 78%, rgba(239,232,223,.07) 0 1.2px, transparent 1.9px),
+      radial-gradient(circle at 52% 8%, rgba(201,24,60,.07) 0 1px, transparent 1.7px);
+    background-size: 33px 33px, 45px 45px, 57px 57px, 39px 39px, 51px 51px; }
+
+  .silhouette { position: absolute; fill: #070405; z-index: 2; }
+  .title { position: absolute; z-index: 4; }
+  .the { font-family: "Unbounded"; font-weight: 700; letter-spacing: .5em; color: var(--crimson); text-shadow: 0 0 18px rgba(201,24,60,.6); }
+  .name { font-family: "Unbounded"; font-weight: 900; letter-spacing: .015em; color: var(--bone); line-height: 1;
+    text-shadow: 0 0 27px rgba(201,24,60,.55), 0 3px 9px rgba(0,0,0,.85); }
+  .person { font-family: "Montserrat"; font-weight: 600; letter-spacing: .36em; text-transform: uppercase; color: rgba(239,232,223,.82);
+    text-shadow: 0 3px 9px rgba(0,0,0,.8); }
+
+  /* wide: 1600 x 480, the card's crop with the A further right so the title has room */
+  .wide { width: 1600px; height: 480px;
+    background:
+      radial-gradient(ellipse 420px 520px at 80% 34%, rgba(255,92,124,.5) 0%, rgba(201,24,60,.72) 26%, rgba(143,16,41,.42) 52%, transparent 74%),
+      radial-gradient(ellipse 1100px 640px at 82% 44%, rgba(143,16,41,.5) 0%, rgba(92,10,29,.3) 45%, transparent 72%),
+      radial-gradient(ellipse 620px 320px at 14% 92%, rgba(143,16,41,.22) 0%, transparent 68%),
+      radial-gradient(ellipse at 50% 50%, transparent 46%, rgba(3,2,2,.62) 100%), var(--bg); }
+  .wide .silhouette { right: -40px; top: -120px; width: 560px; height: 726px;
+    filter: drop-shadow(-6px 0 14px rgba(255,122,148,.55)) drop-shadow(5px 3px 27px rgba(201,24,60,.5)); }
+  .wide .title { left: 84px; bottom: 82px; }
+  .wide .the { font-size: 26px; margin-bottom: 18px; }
+  .wide .name { font-size: 96px; margin-bottom: 26px; }
+  .wide .person { font-size: 25px; }
+
+  /* square: 1080 x 1080 for phones, the A big at the top right and the title along the bottom */
+  .square { width: 1080px; height: 1080px;
+    background:
+      radial-gradient(ellipse 520px 640px at 72% 30%, rgba(255,92,124,.5) 0%, rgba(201,24,60,.72) 26%, rgba(143,16,41,.42) 52%, transparent 74%),
+      radial-gradient(ellipse 1000px 800px at 76% 40%, rgba(143,16,41,.5) 0%, rgba(92,10,29,.3) 45%, transparent 72%),
+      radial-gradient(ellipse 700px 400px at 18% 92%, rgba(143,16,41,.22) 0%, transparent 68%),
+      radial-gradient(ellipse at 50% 50%, transparent 46%, rgba(3,2,2,.62) 100%), var(--bg); }
+  .square .silhouette { right: -400px; top: 0px; width: 965px; height: 1250px;
+    filter: drop-shadow(-8px 0 18px rgba(255,122,148,.55)) drop-shadow(6px 4px 34px rgba(201,24,60,.5)); }
+  .square .title { left: 72px; bottom: 96px; }
+  .square .the { font-size: 34px; margin-bottom: 22px; }
+  .square .name { font-size: 108px; margin-bottom: 30px; }
+  .square .person { font-size: 33px; }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <symbol id="alg-a" viewBox="0 0 1000 1000">
+    <path fill-rule="evenodd" d="M579.12-.3C255.142-.3,122.266,199.758,122.266,670.05V1000H340.242c35.832-34.339,83.607-98.537,83.607-235.892,0-35.832-2.986-80.621-7.465-128.4H579.12V1000h298.6V-0.3H579.12Zm0,621.083H414.891C391,368.466,340.242,13.135,564.19,13.135h14.93V620.781Z"/>
+  </symbol></defs></svg>
+<div class="banner" id="banner">
+  <svg class="silhouette" aria-hidden="true" preserveAspectRatio="none"><use href="#alg-a"/></svg>
+  <div class="title">
+    <div class="the">THE</div>
+    <div class="name">ALGOTHRIM</div>
+    <div class="person">Gaurav Kumar</div>
+  </div>
+</div>
+<script>document.getElementById('banner').classList.add(new URLSearchParams(location.search).get('size') || 'wide');</script>
+</body>
+</html>

@@ -1,16 +1,13 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/banner-square.webp">
+    <img src="assets/banner.webp" alt="The Algothrim, Gaurav Kumar" width="100%">
+  </picture>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0008,100:0d1117&height=180&section=header&text=Gaurav%20Kumar&fontSize=52&fontColor=c9183c&fontAlignY=55&fontAlign=50&desc=The%20Algothrim%20%C2%B7%20Logic%20meets%20artistry.&descSize=14&descColor=6e7681&descAlignY=74" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=13&pause=1600&color=c9183c&center=true&vCenter=true&width=620&lines=Founder+%26+Creative+Director.;Digital+artist+and+full-stack+developer.;The+Outfit+House+%C2%B7+Ruach%27s+Farms.;New+Delhi%2C+India." alt="Founder and Creative Director. Digital artist and full-stack developer." />
-
-</div>
-
-<br/>
+<p align="center">
+  <strong>Founder and Creative Director.</strong> Digital artist and full-stack developer, New Delhi.
+</p>
 
 <div align="center">
 
@@ -66,10 +63,10 @@ A family agricultural holding in Alwar, Rajasthan, in development: poultry first
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/overworld-maps"><img src="https://raw.githubusercontent.com/TheAlgo7/overworld-maps/HEAD/docs/readme/hero.png" width="100%" alt="Overworld Maps" /></a>
+<a href="https://github.com/TheAlgo7/overworld-maps"><img src="https://raw.githubusercontent.com/TheAlgo7/overworld-maps/HEAD/docs/readme/hero.webp" width="100%" alt="Overworld Maps" /></a>
 
 **[Overworld Maps](https://github.com/TheAlgo7/overworld-maps)**<br/>
-Turn-by-turn navigation on real roads, drawn like the maps in GTA V and Red Dead Redemption 2. Built for Android Auto, with live traffic and road alerts.
+Turn-by-turn navigation on real roads, drawn like the maps in GTA V, Red Dead Redemption 2 and GTA VI. Built for Android Auto, with live traffic and road alerts.
 
 </td>
 <td width="50%" valign="top">
@@ -189,21 +186,6 @@ Also: **[Algo Vault](https://github.com/TheAlgo7/algo-vault-shoe-store)** · [op
 
 <br/>
 
-### Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TheAlgo7&hide_border=true&background=0d1117&stroke=0d1117&ring=c9183c&fire=a01330&currStreakLabel=c9183c&sideLabels=6e7681&dates=484f58&sideNums=e6edf3&currStreakNum=ffffff" />
-
-</div>
-
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
 
 **For projects, press and partnerships.**
@@ -213,7 +195,3 @@ Also: **[Algo Vault](https://github.com/TheAlgo7/algo-vault-shoe-store)** · [op
 </div>
 
 <br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0008,100:0d1117&height=100&section=footer" width="100%" />
-</div>
