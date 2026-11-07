@@ -89,7 +89,7 @@ Everything you need to pay, on one line. Bills, cards, subscriptions and UPI pay
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/settld"><img src="https://raw.githubusercontent.com/TheAlgo7/settld/HEAD/docs/readme/hero.png" width="100%" alt="Settld" /></a>
+<a href="https://github.com/TheAlgo7/settld"><img src="https://raw.githubusercontent.com/TheAlgo7/settld/HEAD/docs/readme/hero.webp" width="100%" alt="Settld" /></a>
 
 **[Settld](https://github.com/TheAlgo7/settld)** · [open](https://settld-ruddy.vercel.app)<br/>
 Split, prove, settle. Shared expenses with the receipt and the payment proof kept together, offline-first and free.
