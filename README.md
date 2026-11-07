@@ -81,7 +81,7 @@ Your videos on the car's big screen while you're parked: phone videos, YouTube a
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/dueline"><img src="https://raw.githubusercontent.com/TheAlgo7/dueline/HEAD/docs/readme/hero.png" width="100%" alt="Dueline" /></a>
+<a href="https://github.com/TheAlgo7/dueline"><img src="https://raw.githubusercontent.com/TheAlgo7/dueline/HEAD/docs/readme/hero.webp" width="100%" alt="Dueline" /></a>
 
 **[Dueline](https://github.com/TheAlgo7/dueline)** · [open](https://dueline-app.web.app)<br/>
 Everything you need to pay, on one line. Bills, cards, subscriptions and UPI payees, with a push reminder engine that costs ₹0 to run.
