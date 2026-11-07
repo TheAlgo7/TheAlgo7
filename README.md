@@ -107,7 +107,7 @@ An AI stylist that only picks from the clothes you own, for today's weather and 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/wearwise-go-by-algothrim"><img src="https://raw.githubusercontent.com/TheAlgo7/wearwise-go-by-algothrim/HEAD/docs/readme/hero.png" width="100%" alt="WearWise Go" /></a>
+<a href="https://github.com/TheAlgo7/wearwise-go-by-algothrim"><img src="https://raw.githubusercontent.com/TheAlgo7/wearwise-go-by-algothrim/HEAD/docs/readme/hero.webp" width="100%" alt="WearWise Go" /></a>
 
 **[WearWise Go](https://github.com/TheAlgo7/wearwise-go-by-algothrim)**<br/>
 A packing list built from the weather, the route and the same wardrobe.
