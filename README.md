@@ -125,7 +125,7 @@ Hindi and Hinglish worship lyrics, one tap apart. 2,800+ songs, setlists and a p
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/TheAlgo7/kawaii-habit-tracker"><img src="https://raw.githubusercontent.com/TheAlgo7/kawaii-habit-tracker/HEAD/docs/readme/hero.png" width="100%" alt="Kawaii Habit Tracker" /></a>
+<a href="https://github.com/TheAlgo7/kawaii-habit-tracker"><img src="https://raw.githubusercontent.com/TheAlgo7/kawaii-habit-tracker/HEAD/docs/readme/hero.webp" width="100%" alt="Kawaii Habit Tracker" /></a>
 
 **[Kawaii Habit Tracker](https://github.com/TheAlgo7/kawaii-habit-tracker)**<br/>
 Habits where tiny versions count and rest days are planned. A garden grows; Neko keeps you company.
